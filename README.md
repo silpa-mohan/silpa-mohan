@@ -22,8 +22,8 @@ Do not publish confidential internship information, secrets, API keys, or privat
 
 <br/>
 
-<a href="https://nathanaelxn.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio%20→-nathanaelxn.github.io%2Fportfolio-2478D4?style=for-the-badge&labelColor=0D1117" alt="Visit my portfolio" height="42" />
+<a href="https://www.linkedin.com/in/silpa-mohan-s">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio%20→-nathanaelxn.github.io%2Fportfolio-2478D4?style=for-the-badge&labelColor=0D1117" alt="Visit my LinkedIn" height="42" />
 </a>
 
 </div>
