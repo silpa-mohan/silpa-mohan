@@ -7,20 +7,28 @@ Do not publish confidential internship information, secrets, API keys, or privat
 
 <div align="center">
 
-Hi, I'm Silpa Mohan 👋
-Cybersecurity Fresher | VAPT | Web & API Security | Network Security | SOC & SIEM
-<p>
-  <a href="https://www.linkedin.com/in/silpa-mohan-65636b282">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:silpamohan356@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=brightgreen" alt="Profile views">
-</p>
+# 👋 Hi, I'm Silpa Mohan  
 
-Interested in finding vulnerabilities, understanding how systems fail, and helping make applications and infrastructure more secure.
+### Cybersecurity Enthusiast | Aspiring SOC Analyst | Blue Team & Red Team Learner  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/silpa-mohan-s)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/msilpa111)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:silpamohan356@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/silpa-mohan)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2478D4&center=true&vCenter=true&width=800&lines=Security+Monitoring+%26+Log+Analysis;SOC+Operations+%7C+Threat+Detection;Digital+Forensics+%26+Incident+Response;Web+Application+Security+%7C+VAPT;Always+Learning%2C+Practicing%2C+Improving" alt="Animated cybersecurity focus areas" />
+
+📍 Kerala, India | 🎓 MCA Cyber Security, Mahatma Gandhi University | 💼 Open to Cybersecurity Opportunities
+
+<br/>
+
+<a href="https://nathanaelxn.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/🚀%20Visit%20My%20Portfolio%20→-nathanaelxn.github.io%2Fportfolio-2478D4?style=for-the-badge&labelColor=0D1117" alt="Visit my portfolio" height="42" />
+</a>
+
 </div>
+
+---
 
 👩‍💻 About Me
 I'm an MCA graduate transitioning into cybersecurity, with a background in Physics and a strong interest in application security, vulnerability assessment and penetration testing (VAPT), network security, and security operations.
